@@ -1,0 +1,11 @@
+.idea/*
+.vs/*
+.*/*
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+config.py
+config.pyc

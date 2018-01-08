@@ -1,0 +1,14 @@
+requests
+validators
+Flask
+flask_wtf
+Flask-SQLAlchemy
+flask_login
+flask_script
+flask_migrate
+wtforms
+gunicorn
+Flask-JWT
+flask-restful
+flask_jwt_extended
+flask_limiter
